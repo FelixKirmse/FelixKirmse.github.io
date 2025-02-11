@@ -2,8 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fifi&#39;s Home</title>
-    <link>https://felixkirmse.github.io/tags/</link>
+    <link>http://localhost:11193/tags/</link>
     <description>Recent content in Tags on Fifi&#39;s Home</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://felixkirmse.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:11193/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
